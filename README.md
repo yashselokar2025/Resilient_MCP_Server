@@ -1,5 +1,7 @@
 # Resilient Research MCP Server
 
+> ⚠️ **PROPRIETARY & CONFIDENTIAL**  
+> This repository contains proprietary portfolio work. All rights reserved. **Copying, forking, redistributing, or using this code for any open-source, commercial, or personal projects without explicit written permission is strictly prohibited.**
 > **"I built a Python MCP server that gives Claude a persistent, stealth-capable browser. Unlike standard implementations which dump raw HTML and cold-start per call, mine maintains session state across tool calls (enabling multi-step flows), accepts JSON extraction schemas for typed structured data, and applies token-aware trimming to avoid context window blowouts. Built with FastMCP, Playwright async API, and playwright-stealth."**
 
 ## Why This Exists (Solving the 5 Agentic Gaps)
